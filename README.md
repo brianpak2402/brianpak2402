@@ -10,3 +10,4 @@ const brian = {
   interests: [Fullstack Development, Cloud Computing, Machine Learning, CV]
 }
 ```
+In my free time, I like to write poetry, brew coffee/espresso drinks, try out new recipes, play my cello, and learn about anything that that peaks my interest. I am currently looking into how I can capture memories and the world around me through medium format and film photography.
