@@ -16,7 +16,9 @@ const brian = {
   music-interests: {
     instruments: ["cello"],
     favorite-composer: "Dmitiri Shostakovich",
-    favorite-genre: "jazz" 
+    favorite-genre: "jazz",
+    favorite-jazz-musician: "Chet Baker"
+    
   }
 }
 ```
