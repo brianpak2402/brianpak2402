@@ -3,22 +3,21 @@
 Hey! 👋 I'm Brian Pak
 ==========================  
 ### Who am I?
-I'm an undergraduate student at the Georgia Institute of Technology 🐝 seeking to learn about 1) the mathematics behind machine learning/deep learning models, 2) code that produces music and visual art, and 3) how I'm able to present material onto a website. 
+I'm an undergraduate student at the Georgia Institute of Technology 🐝 excited to learn about machine learning its applciations to classical music performance and consumption. In recent months, I have gained more interest in web development and how I can use webdev technologies to build meaningful applications.
  * 🌍  I'm based in Atlanta, Georgia
  * ✉️  You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com) 
- * 🧠  I'm learning Typescript, Styled Components, GraphQL, Docker, and AWS.
+ * 🧠  I'm learning HTML, CSS, Javascript.
 
 Here's a little bit more about myself: 
 ```javascript
 const brian = {
   pronouns: "he" | "him",
-  hobbies: ["poetry", "coffee/espresso drinks", "learning"],
+  hobbies: ["poetry", "coffee/espresso drinks", "practicing cello", "cooking"],
   music-interests: {
     instruments: ["cello"],
     favorite-composer: "Dmitiri Shostakovich",
     favorite-genre: "jazz",
-    favorite-jazz-musician: "Chet Baker"
-    
+    favorite-jazz-musicians: ["Chet Baker", "Laufey"]
   }
 }
 ```
