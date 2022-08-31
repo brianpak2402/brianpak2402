@@ -4,7 +4,7 @@
 Hey! 👋 I'm Brian Pak
 ==========================  
 ### Who am I?
-I'm an undergraduate student at the Georgia Institute of Technology 🐝 excited to learn about machine learning its applciations to classical music performance and consumption. In recent months, I have gained more interest in web development and how I can use webdev technologies to build meaningful applications.
+I'm an undergraduate student at the Georgia Institute of Technology 🐝 excited to learn about machine learning its applciations to classical music performance and consumption. In recent months, I have gained more interest in web development and how I can use webdev technologies to build meaningful applications that empower students, developers, and communities.
  * 🌍  I'm based in Atlanta, Georgia
  * ✉️  You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com) 
  * 🧠  I'm learning HTML, CSS, Javascript.
