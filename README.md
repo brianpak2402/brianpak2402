@@ -5,8 +5,6 @@
 
 Hey! 👋 I'm Brian Pak
 
-==========================
-
 ### Who am I?
 
 I'm an undergraduate student at the Georgia Institute of Technology 🐝 excited to learn about machine learning its applciations to classical music performance and consumption. In recent months, I have gained more interest in web development and how I can use webdev technologies to build meaningful applications that empower students, developers, and communities.
@@ -15,7 +13,7 @@ I'm an undergraduate student at the Georgia Institute of Technology 🐝 excited
 
 * ✉️ You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com)
 
-* 🧠 I'm learning HTML, CSS, Javascript.
+* 🧠 I'm learning Express, Serverless Stack Toolkit (SST), and Framer Motion
 
   
 
@@ -27,19 +25,7 @@ const brian =  {
 
   pronouns:  "he"  |  "him",
 
-  hobbies:  ["poetry",  "coffee/espresso drinks",  "practicing cello",  "cooking"],
-
-  music-interests:  {
-
-    instruments:  ["cello"],
-
-    favorite-composer:  "Dmitiri Shostakovich",
-
-    favorite-genre:  "jazz",
-
-    favorite-jazz-musicians:  ["Chet Baker",  "Laufey"]
-
-  }
+  hobbies/interest:  ["cello performance",  "coffee/espresso drinks", "history", "brutalist architecture"],
 }
 
 ```
