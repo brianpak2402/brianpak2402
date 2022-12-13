@@ -7,30 +7,15 @@ Hey! 👋 I'm Brian Pak
 
 ### Who am I?
 
-I'm an undergraduate student at the Georgia Institute of Technology 🐝 excited to learn about machine learning its applciations to classical music performance and consumption. In recent months, I have gained more interest in web development and how I can use webdev technologies to build meaningful applications that empower students, developers, and communities.
+I'm an undergraduate student studying Computer Science at the Georgia Institute of Technology 🐝. In previous months, I've gained a passion for developing APIs and backend systems that empower web applications, especailly those exploring the intersections between music and computation! Check out the repositories below to see some of my recent works. 
+
+Right now, I am co-leading the development for a virtual jukebox, powered by Spotify and led by you! 
 
 * 🌍 I'm based in Atlanta, Georgia
 
 * ✉️ You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com)
 
-* 🧠 I'm learning Express, Serverless Stack Toolkit (SST), and Framer Motion
-
-  
-
-Here's a little bit more about myself:
-
-```javascript
-
-const brian =  {
-
-  pronouns:  "he"  |  "him",
-
-  hobbies/interest:  ["cello performance",  "coffee/espresso drinks", "history", "brutalist architecture"],
-}
-
-```
-
-  
+* 🧠 I'm currently learning Express, Serverless Stack Toolkit (SST), Chakra UI, Framer Motion, and Express.js. 
 
 ---
 
