@@ -15,7 +15,7 @@ Right now, I am helping to build lambda functions to make API calls for a virtua
 
 * ✉️ You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com)
 
-* 🧠 I'm currently learning Express, Serverless Stack Toolkit (SST), Chakra UI, Framer Motion, and Express.js. 
+* 🧠 I'm currently learning Next.js, Serverless Stack Toolkit (SST), Chakra UI, Framer Motion, and Express.js. 
 
 ---
 
