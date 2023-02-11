@@ -15,5 +15,5 @@ Right now, I am building a serverless, RESTful API with AWS lambda functions tha
 
 * ✉️ You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com)
 
-* 🧠 I'm currently learning Next.js, NextUI, Vanilla Extract, Express.js, and GraphQL.
+* 🧠 I'm currently learning Next.js, Radix UI, Express.js, and GraphQL.
 ---
