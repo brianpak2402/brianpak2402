@@ -7,13 +7,13 @@ Hey! 👋 I'm Brian Pak
 
 ### Who am I?
 
-I'm an undergraduate student studying Computer Science at the Georgia Institute of Technology 🐝. In previous months, I've gained a passion for developing APIs and backend systems that empower web applications, especailly those exploring the intersections between music and computing! Check out the repositories below to see some of my recent works. 
+I'm an undergraduate student studying Computer Science at the Georgia Institute of Technology 🐝 experienced in enterprise FinTech and music software. Throughout the past few years, I've continued to explore my interests in building cloud-based APIs (RESTful & GraphQL) and user-cented web interfaces. Feel free to look through some of mu works below!
 
-Right now, I am co-leading the development a serverless web application that allows users to interact with Spotify's Web API.
+Currently, I am spearheading the development for a full-stack serverless web application for hosting virtual music sessions, leveraging Spotify's Web API to allow guests to upvote, downvote, and add songs to a host's playback queue. I am also working with the Georgia Tech Center for Music Technology (GTCMT) to build the web interface of Mixboard from deprecated Vue to React Typescript.
 
 * 🌍 I'm based in Atlanta, Georgia
 
 * ✉️ You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com)
 
-* 🧠 I'm currently learning Next.js, Radix UI, Express.js, and GraphQL.
+* 🧠 I'm currently learning GraphQL, Redis Server, Amazon RDS, Next13, Tailwind CSS, and Shadcn UI.
 ---
