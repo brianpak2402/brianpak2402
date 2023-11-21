@@ -15,5 +15,5 @@ Currently, I am spearheading the development for a full-stack serverless web app
 
 * ✉️ You can contact me at [brianpak2402@gmail.com](mailto:brianpak2402@gmail.com)
 
-* 🧠 I'm currently learning GraphQL, Redis Server, Amazon RDS, Next13, Tailwind CSS, and Shadcn UI.
+* 🧠 I'm currently learning about GraphQL, Pandas, sklearn, and the Web Audio API.
 ---
